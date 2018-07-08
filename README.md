@@ -41,4 +41,4 @@ To score, keep holding a plate for 1 second inside the sink. Both left and right
 
 The player has 60 seconds to "clean" as many plates as possible.  Once timer ends, the game is over!  To Restart, simply push the big red button again.
 
-
+More plates spawn after 30 seconds of gameplay.
